@@ -3,6 +3,9 @@
 *   Add the code in your UIViewController.m and set cpfField Outset in your UIViewController.h
 *   and @syntesize cpfField
 */
+
+@syntesize cpfField;
+
 - (BOOL)textField:(UITextField *)textField shouldChangeCharactersInRange:(NSRange)range replacementString:(NSString *)string
 {
     if (textField == cpfField) {
