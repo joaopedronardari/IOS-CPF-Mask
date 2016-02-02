@@ -1,5 +1,5 @@
 /**
-*   CODE BY Joao Pedro Nardari dos Santos - joaonardari@terra.com.br
+*   CODE BY Joao Pedro Nardari dos Santos - joaonardari@gmail.com
 *   Add the code in your UIViewController.m and set cpfField Outset in your UIViewController.h
 *   and @syntesize cpfField
 */
